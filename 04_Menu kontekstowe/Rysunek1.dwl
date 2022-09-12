@@ -1,0 +1,3 @@
+A2
+DESKTOP-PHUAJE5 
+œroda, 8 grudnia 2021  15:43:22

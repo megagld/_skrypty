@@ -8,10 +8,10 @@ input_dir = '{}{}'.format(Path(__file__).parent,'''\\''')
 ###############################################
 
 rys=[
-    ['_01','_01_Rysunek ogólny. Założenia drogowe. Plan i profil'],
-    ['_02','_02_Rysunek ogólny. Rzut'],
-    ['_03','_03_Rysunek ogólny. Przekrój podłużny i widok z boku'],
-    ['_04','_04_Rysunek ogólny. Przekroje poprzeczne']
+    ['_01','_01_OG. Założenia drogowe'],
+    ['_02','_02_OG. Rzut'],
+    ['_03','_03_OG. Przekrój podłużny'],
+    ['_04','_04_OG. Przekroje poprzeczne']
 ]
 
 ###############################################
